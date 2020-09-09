@@ -1,0 +1,14 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+oceanhero.today	FALSE	/	FALSE	1615439980	_pk_ref.6.b753	%5B%22%22%2C%22%22%2C1599671981%2C%22https%3A%2F%2Fwww.google.com%2F%22%5D
+oceanhero.today	FALSE	/	TRUE	0	First_Session_Date	20200909
+oceanhero.today	FALSE	/	FALSE	0	searchCounter	272
+.oceanhero.today	TRUE	/	FALSE	1662745512	_ga	GA1.2.840591373.1599062435
+.oceanhero.today	TRUE	/	FALSE	1599759912	_gid	GA1.2.1563648104.1599673513
+oceanhero.today	FALSE	/	FALSE	1630779138	currentExperiment	{"experimentName":"SERP pause","experimentId":"8","scenario":{"id":"1","name":"SERP - Google pause - switch","featureFlags":{"PAUSE":"switch"}}}
+oceanhero.today	FALSE	/	FALSE	1630779138	settings	{"personalizedResults":"yes","clientId":"14CDAFD0BC4B64C40BE0A090BD0765BC","mkt":"en-US","safeSearch":"Moderate","hiddenPopup":true,"selectedUnit":null,"isRedDotVisible":true,"isSwitcherPopoverVisible":true,"theme":"default","setLang":"en","levellingStartCounter":0,"narrativeId":20,"groupId":"RYOIcNDyO","levelingPopoversShown":true,"groupNotificationSeen":true}
+oceanhero.today	FALSE	/	FALSE	1633017620	_pk_id.6.b753	3e136c50497a583c.1599062420.2.1599675139.1599062432.
+oceanhero.today	FALSE	/	FALSE	1599676939	_pk_ses.6.b753	1
+oceanhero.today	FALSE	/	FALSE	0	lastSeenSearch	%7B%22counter%22%3A45483225%2C%22lastWeek%22%3A1426593%2C%22when%22%3A1599675139548%7D
